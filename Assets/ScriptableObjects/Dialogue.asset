@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0246ab22d561e5c458ab35dfebfd7f03, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  strings:
+  - stringID: PROVA1
+    characterName: Walter
+    characterSprite: {fileID: 21300000, guid: e71fac794a61abe4995ba6d16fc0f4f9, type: 3}
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    textSpeed: 1
+    text: ASIJKAHSIS
+  - stringID: PROVA2
+    characterName: Pino
+    characterSprite: {fileID: 0}
+    textColor: {r: 0, g: 0, b: 0, a: 0}
+    textSpeed: 0
+    text: 'aaadsa '
+  - stringID: PROVA3
+    characterName: Charles
+    characterSprite: {fileID: 0}
+    textColor: {r: 0, g: 0, b: 0, a: 0}
+    textSpeed: 0
+    text: adv f sv
+  - stringID: PROVA4
+    characterName: Walter
+    characterSprite: {fileID: 0}
+    textColor: {r: 0, g: 0, b: 0, a: 0}
+    textSpeed: 0
+    text: 
+  - stringID: PROVA5
+    characterName: 
+    characterSprite: {fileID: 0}
+    textColor: {r: 0, g: 0, b: 0, a: 0}
+    textSpeed: 0
+    text: 
